@@ -1,6 +1,3 @@
-//pass:'bbix wxvh eiwv faij'
-
-
 
 var nodejsmailer  = require('nodemailer'); // use mailer nodejs module
 
